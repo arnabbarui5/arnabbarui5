@@ -28,3 +28,7 @@ I am a Full Stack Developer working on web applications used by millions of peop
 
 [website]: https://learnify.netlify.app/
 [twitter]: https://twitter.com/ArnabBarui3/
+[github]: https://github.com/arnabbarui5/
+[linkedin]: https://linkedin.com/in/arnab-barui-026690177/
+[facebook]: https://www.facebook.com/arnab.barui.984/
+[instagram]: https://www.instagram.com/pablu__7/
