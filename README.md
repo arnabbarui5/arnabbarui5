@@ -11,8 +11,10 @@ I am a Full Stack Developer working on web applications used by millions of peop
 ▶ **Cloud Computing** : AWS <br />
 ▶ **Database** : MySQL, MongoDB <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabbarui5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabbarui5&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br />
 
-[<img align="left" alt="learnify.netlify.app" width="22px" src="http://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.learnify.netlify.app)
+[<img align="left" alt="learnify.netlify.app" width="22px" src="http://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] <br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arnabbarui5)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arnabbarui5)](https://github.com/anuraghazra/github-readme-stats) <br />
+
+[website]: https://learnify.netlify.app/
