@@ -15,7 +15,7 @@ I am a Full Stack Developer working on web applications used by millions of peop
 
 ### Connect with me
 
-[<img align="left" alt="learnify.netlify.app" width="27px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="learnify.netlify.app" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] <br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arnabbarui5)](https://github.com/anuraghazra/github-readme-stats) <br />
 
