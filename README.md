@@ -15,8 +15,12 @@ I am a Full Stack Developer working on web applications used by millions of peop
 
 ### Connect with me
 
-[<img align="left" alt="learnify.netlify.app" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] <br/>
+[<img align="left" alt="learnify.netlify.app" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="twitter" | "Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/twitter.svg" />][twitter]
+<br/><br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arnabbarui5)](https://github.com/anuraghazra/github-readme-stats) <br />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arnabbarui5)](https://github.com/anuraghazra/github-readme-stats) 
 
 [website]: https://learnify.netlify.app/
+[twitter]: https://twitter.com/ArnabBarui3/
